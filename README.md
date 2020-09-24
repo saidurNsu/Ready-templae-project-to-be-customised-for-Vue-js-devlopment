@@ -1,9 +1,3 @@
-# get free bootstrap icons 
-https://getbootstrap.com/docs/4.5/getting-started/introduction/
-https://icons.getbootstrap.com/?
-
-
-
 # CoreUI Free Vue Bootstrap Admin Template
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%20Vue%20Admin%20Template%20&url=http://coreui.io/vue/&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
